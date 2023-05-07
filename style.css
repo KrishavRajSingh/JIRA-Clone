@@ -121,7 +121,7 @@ body{
     /* background-color: #b2bec3; */
     outline: none;
     word-wrap:break-word;
-    
+    overflow:auto;
     padding: 1rem;
     font-size: 1.5rem;
 }
