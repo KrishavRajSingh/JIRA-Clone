@@ -1,4 +1,5 @@
-# https://krishavrajsingh.github.io/JIRA-Clone
+https://krishavrajsingh.github.io/JIRA-Clone
+
 JIRA TICKET CLONE:
 This project is a clone of the popular issue tracking software JIRA. This project is built with HTML, CSS, and JavaScript.
 
